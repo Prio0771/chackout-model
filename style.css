@@ -1,6 +1,7 @@
 body,html{
    width:100%;
     background-image: url("./Untitled\ design.png") ;
+   min-height:100vh;
     display: flex;
    background-size:350px;
     align-items: center;
